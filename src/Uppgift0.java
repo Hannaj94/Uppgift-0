@@ -5,6 +5,9 @@ public class Uppgift0 {
 
 		System.out.println("How much is 2+2?");
 		System.out.println(2+2);
+		
+		System.out.println("How much is 10-5?");
+		System.out.println(10-5);
 	}
 
 }
